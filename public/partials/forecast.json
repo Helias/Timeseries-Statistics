@@ -1,0 +1,5 @@
+{
+	"title": "Forecast",
+	"description": "Il Forecasting (<b class=\"text-info\">Previsione</b>) è il processo che cerca di predire dati futuri basandosi su dati passati e presenti e, comunemente fa uso dell'analisi del <a href=\"#!/trend\">trend</a>.<br>In questa analisi sono stati utilizzati i metodi <b class=\"text-success\">Least Square</b> e <b class=\"text-success\">Max Entropy</b>, per calcolare i coefficienti di <b class=\"text-success\">Auto-Regressione</b>.",
+	"legend": "Forecast-Values"
+}

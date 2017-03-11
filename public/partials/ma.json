@@ -1,0 +1,5 @@
+{
+	"title": "Moving Average",
+	"description": "La Moving Average (<a href=\"https://it.wikipedia.org/wiki/Media_mobile\"><b class=\"text-info\">Media Mobile</b></a>) è uno strumento utilizzato per l'analisi di serie storiche che mostra la media dei valori di una serie basandosi per ogni iterazione sui valori precedentemente analizzati.<br>Le medie mobili possono anche essere viste come trendline",
+	"legend": "MovingAverage"
+}

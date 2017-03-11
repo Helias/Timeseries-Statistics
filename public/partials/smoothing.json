@@ -1,0 +1,5 @@
+{
+	"title": "Smoothing",
+	"description": "In statistica, lo smoothing di un insieme consiste nell'applicazione di una funzione di filtro il cui scopo è evidenziare i pattern significativi, attenuando il rumore o diversi fenomeni di disturbo legati a fattori di scala molto piccoli.<br>Si tratta di fare una media tra valori contigui oppure molto vicini nello spazio o nel tempo.<br>",
+	"legend": "Smoothing"
+}

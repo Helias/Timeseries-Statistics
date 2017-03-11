@@ -1,0 +1,5 @@
+{
+	"title": "Noise",
+	"description": "Ecco una rappresentazione del '<b class=\"text-info\">rumore</b>' presente nei dati, lo stesso rumore filtrato tramite lo <a href=\"#!/smoothing\">Smoothing</a>",
+	"legend": "Noise"
+}

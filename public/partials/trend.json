@@ -1,0 +1,5 @@
+{
+	"title": "Trend",
+	"description": "La stima del <b class=\"text-info\">Trend</b> è una tecnica statistica per facilitare l'interpretazione dei dati.<br>Quando una serie di misure di un processo vengono trattate come una serie storica, la stima del trend può essere usata per giustificare alcune dichiarazioni delle tendenze dei dati, mettendo in relazione le misure ai tempi in cui si sono verificati.<br>Questo modello può quindi essere utilizzato per descrivere il comportamento dei dati osservati.",
+	"legend": "Trend"
+}

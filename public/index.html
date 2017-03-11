@@ -1,0 +1,47 @@
+ <!DOCTYPE html>
+<html ng-app="app">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Timeseries Statistics">
+    <meta name="author" content="Helias">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Timeseries Statistics</title>
+
+    <!-- JavaScript -->
+    <script src="lib/js/jquery.min.js"></script>
+    <script src="lib/js/angular.min.js"></script>
+    <script src="lib/js/angular-ui-router.min.js"></script>
+    <script src="lib/js/ui-bootstrap.min.js"></script>
+    <script src="lib/js/bootstrap.min.js"></script>
+    <script src="lib/js/loader.js"></script>
+
+    <script src="js/app.js"></script>
+    <script src="js/routes.js"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="lib/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+
+    <br><br>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <a ng-href="#!/home"><button class="btn btn-lg btn-default">Home</button></a>
+          <a ng-href="#!/ma"><button class="btn btn-lg btn-primary">Moving Average</button></a>
+          <a ng-href="#!/lwma"><button class="btn btn-lg btn-primary">Linear Weighted MA</button></a>
+          <a ng-href="#!/trend"><button class="btn btn-lg btn-primary">Trend</button></a>
+          <a ng-href="#!/smoothing"><button class="btn btn-lg btn-primary">Smoothing</button></a>
+          <a ng-href="#!/noise"><button class="btn btn-lg btn-danger">Noise</button></a>
+          <a ng-href="#!/forecast"><button class="btn btn-lg btn-success">Forecast</button></a>
+          <div ui-view></div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>
